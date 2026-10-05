@@ -3,6 +3,11 @@
 Welcome to the **Walmart Sales Analysis Dashboard** project! This repository contains a dynamic and interactive Power BI dashboard designed to analyze retail sales performance, customer demographic trends, store-level metrics, and key performance indicators (KPIs) for Walmart.
 
 ---
+## 📈 Dashboard Preview
+
+Here is a preview of the interactive Walmart Sales Dashboard:
+
+![Walmart Sales Dashboard](.walmart_sales_dashboard.png)
 
 ## 📌 Project Overview
 
