@@ -7,7 +7,7 @@ Welcome to the **Walmart Sales Analysis Dashboard** project! This repository con
 
 Here is a preview of the interactive Walmart Sales Dashboard:
 
-![Walmart Sales Dashboard](.walmart_sales_dashboard.png)
+![Walmart Sales Dashboard](./walmart_sales_dashboard.png)
 
 ## 📌 Project Overview
 
